@@ -1,0 +1,30 @@
+li {
+  font-size: 30px;
+  list-style: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+.dropdown{
+  margin: 2%;
+}
+
+.duck_images{
+  border: 2px solid #4245f4;
+  width: 30vw;
+  height: 30vw;
+  margin: 1%;
+  border-radius: 20px;
+}
+
+
+body{
+  font-family: 'Patrick Hand SC', cursive;
+  text-align: center;
+  background-image: url("https://thumbs.dreamstime.com/b/berry-henna-background-26174750.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
